@@ -21,8 +21,11 @@
 
 }
 
-.container{
-  height:800px;
+.container:after{
+  content:"";
+  display: block;
+  clear: both;
+
 }
 
 
