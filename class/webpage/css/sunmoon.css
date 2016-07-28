@@ -1,0 +1,16 @@
+.header{
+  width:1903px;
+  height: 33px;
+  background: #01aeb2;
+  margin: 0 auto;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.util-lang{
+  float:left;
+  
+}
+
+.util-member{
+  float: right;
+}
