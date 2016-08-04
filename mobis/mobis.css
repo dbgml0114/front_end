@@ -1,7 +1,12 @@
-.inner{
+
+.wrap{
   width:1903px;
-  margin: 0 auto;
+}
+
+.inner{
+  width: 1060px;
   position: relative;
+  margin: 0 auto;
 }
 
 .header {
@@ -16,4 +21,29 @@
   top:0;
   left: 0;
   float: left;
+}
+
+.gnb{
+  float: right;
+}
+
+
+.gnb-depth1-item{
+  float: left;
+  padding: 30px 32px;
+}
+
+
+.gnb-depth1-link{
+  display: block;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+
+.gnb-depth2{
+  position: absolute;
+  width:
+
 }
