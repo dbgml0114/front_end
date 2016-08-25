@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37a5b075-9336-494a-ba3c-cb4213e4071f" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/webpage/css/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/webpage/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/webpage/video2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobis/mobis.css" afterPath="$PROJECT_DIR$/mobis/mobis.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobis/mobis.html" afterPath="$PROJECT_DIR$/mobis/mobis.html" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
@@ -22,9 +30,10 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47340825">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
+<<<<<<< HEAD
           <file leaf-file-name="dothome.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -40,24 +49,37 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.5889146">
                   <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sunmoon.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
+=======
+          <file leaf-file-name="mobis.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobis/mobis.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="564" column="0" selection-start-line="564" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+                  <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
+          <file leaf-file-name="video2.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/webpage/video2.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="564" column="0" selection-start-line="564" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+=======
+                <state vertical-scroll-proportion="-10.0">
+                  <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="video.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/webpage/css/video.css">
+              <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state vertical-scroll-proportion="0.0">
                   <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
                   <folding>
@@ -67,6 +89,11 @@
                     <element signature="n#ul#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#ul#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
+=======
+                <state vertical-scroll-proportion="0.32502708">
+                  <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+                  <folding />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
                 </state>
               </provider>
             </entry>
@@ -75,6 +102,7 @@
       </split-first>
       <split-second>
         <leaf>
+<<<<<<< HEAD
           <file leaf-file-name="dothome.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/webpage/css/dothome.css">
               <provider selected="true" editor-type-id="text-editor">
@@ -116,6 +144,20 @@
                 <state vertical-scroll-proportion="0.0">
                   <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
                   <folding />
+=======
+          <file leaf-file-name="mobis.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mobis/mobis.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.44382647">
+                  <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
                 </state>
               </provider>
             </entry>
@@ -183,6 +225,12 @@
         <option value="$PROJECT_DIR$/class/webpage/css/sunmoon.css" />
         <option value="$PROJECT_DIR$/mobis/mobis.html" />
         <option value="$PROJECT_DIR$/mobis/mobis.css" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/class/webpage/video.html" />
+        <option value="$PROJECT_DIR$/class/webpage/video2.html" />
+        <option value="$PROJECT_DIR$/class/webpage/css/video.css" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
       </list>
     </option>
   </component>
@@ -194,10 +242,17 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="128" />
     <option name="y" value="13" />
     <option name="width" value="1646" />
     <option name="height" value="999" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -266,6 +321,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="mobis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -284,6 +340,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+=======
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
               <option name="myItemId" value="class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -447,10 +505,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="128" y="13" width="1646" height="999" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16979167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -485,36 +550,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/css/dothome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/baskinrabins.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -527,10 +562,18 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="n#li#0;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#2;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#3;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+=======
+            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
           </folding>
         </state>
       </provider>
@@ -586,10 +629,18 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
           <folding>
+<<<<<<< HEAD
             <element signature="n#li#0;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#2;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#3;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+=======
+            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
           </folding>
         </state>
       </provider>
@@ -882,6 +933,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/baskinrabins.html">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="467" column="0" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
@@ -893,12 +949,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
           <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.016685206">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.9068255">
+          <caret line="546" column="0" selection-start-line="546" selection-start-column="0" selection-end-line="546" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/css/baskinrabins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329609">
+          <caret line="180" column="14" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+          <folding>
+            <element signature="e#1894#1948#0" expanded="false" />
+            <element signature="e#1972#2026#0" expanded="false" />
+            <element signature="e#2051#2070#0" expanded="false" />
+            <element signature="e#2092#2111#0" expanded="false" />
+            <element signature="e#2134#2153#0" expanded="false" />
+            <element signature="e#2176#2195#0" expanded="false" />
+            <element signature="e#2218#2237#0" expanded="false" />
+            <element signature="e#2345#2368#0" expanded="false" />
+            <element signature="e#2386#2413#0" expanded="false" />
+            <element signature="e#2431#2477#0" expanded="false" />
+            <element signature="e#2486#2628#0" expanded="false" />
+            <element signature="e#2639#2801#0" expanded="false" />
+          </folding>
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/mobis.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="564" column="0" selection-start-line="564" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
           <folding />
@@ -916,20 +1025,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+=======
+        <state vertical-scroll-proportion="0.44382647">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobis/mobis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5889146">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobis/mobis.html">
+    <entry file="file://$PROJECT_DIR$/class/webpage/video2.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.5889146">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+=======
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/css/video.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.5522565">
           <caret line="194" column="51" selection-start-line="194" selection-start-column="51" selection-end-line="194" selection-end-column="51" />
           <folding>
@@ -938,6 +1079,11 @@
             <element signature="n#li#2;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#3;n#ul#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+=======
+        <state vertical-scroll-proportion="0.32502708">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+>>>>>>> a5523717daa86346c3bb7f98faafcb88b577b5de
         </state>
       </provider>
     </entry>
