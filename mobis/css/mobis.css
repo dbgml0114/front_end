@@ -25,7 +25,7 @@
   text-indent: -9999em;
   display: block;
 
-  background: url(images/logo.png) no-repeat;
+  background: url(../images/logo.png) no-repeat;
 }
 
 
@@ -53,7 +53,7 @@
   float: left;
   width: 180px;
   text-align: center;
-  background: url(images/gnbBg.png) no-repeat;
+  background: url(../images/gnbBg.png) no-repeat;
   position: relative;
 }
 
@@ -73,7 +73,7 @@
   display: block;
   height: 16px;
   text-indent: -9999em;
-  background: url(images/menu1.png) no-repeat;
+  background: url(../images/menu1.png) no-repeat;
 }
 
 .gnb-depth1-item:nth-child(1) .gnb-depth1-link{
@@ -152,7 +152,7 @@
   position: relative;
   width: 1064px;
   height: 420px;
-  background: url(images/visual0.jpg) no-repeat 0 -110px;
+  background: url(../images/visual0.jpg) no-repeat 0 -110px;
   background-size: 1060px 706px;
   text-indent: -9999em;
 }
