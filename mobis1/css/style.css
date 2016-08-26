@@ -113,12 +113,12 @@ a{
   float:left;
 }
 
-.logo>a{
-  display:block;
-  width:190px;
-  height:90px;
-  text-indent:-99999em;
-  background:url(../images/sprite_image_01.png) no-repeat 0 21px;
+.logo>a {
+  display: block;
+  width: 190px;
+  height: 90px;
+  text-indent: -99999em;
+  background: url(../images/sprite_image_01.png) no-repeat 0 21px;
 }
 
 .gnb{
