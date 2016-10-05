@@ -31,6 +31,8 @@
 
 /* //°øÅë  */
 
+
+/* header */
 .header{
   height: 90px;
 }
@@ -132,9 +134,49 @@
   color:#666;
 }
 
+/* //header */
+
+
+/* visual */
+
+.visual{
+  height: 420px;
+  position: relative;
+}
+
+
+.visual-list{
+  height:420px;
+}
+
+.visual-item{
+  position:relative;
+  height: 420px;
+  background: url(../images/visual0.jpg) no-repeat 0 -110px;
+  background-size: 1060px auto;
+}
+
+.visual-text{
+  width: 560px;
+  height: 208px;
+  background: url(../images/vis_txtbg.png) no-repeat 0 0;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  margin:-104px 0 0 -280px;
+
+}
 
 
 
+
+
+
+
+
+
+
+/*// visual*/
 
 
 
